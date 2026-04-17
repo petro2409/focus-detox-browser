@@ -1,5 +1,9 @@
 # Focus Detox Browser
 
+<img width="270" height="600" alt="Screenshot_2026-04-16-17-01-47-205_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/d37d2c63-b2cf-40bd-a69f-dd17dc368441" >
+<img width="270" height="600" alt="Screenshot_2026-04-16-16-58-33-486_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/a5a65808-c115-49f5-9f9d-8ff0f07a1930" >
+<img width="270" height="600" alt="Screenshot_2026-04-16-16-57-32-553_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/38850a0a-7766-47bf-8b6a-7950e2d0a24f" >
+
 **Focus Detox Browser** is a minimal, distraction-free Android browser designed to help users reduce digital overload and stay focused.  
 It removes search engines, feeds, and algorithmic distractions, allowing only intentional navigation through direct links.
 
@@ -97,7 +101,3 @@ Every design decision is focused on:
 ## 🔍 Keywords
 
 Minimal browser, detox browser, distraction free browser, URL only browser, Android privacy browser, DNS filtering browser, site blocker browser, focus tool, digital wellbeing browser
-
-<img width="270" height="600" alt="Screenshot_2026-04-16-17-01-47-205_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/d37d2c63-b2cf-40bd-a69f-dd17dc368441" >
-<img width="270" height="600" alt="Screenshot_2026-04-16-16-58-33-486_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/a5a65808-c115-49f5-9f9d-8ff0f07a1930" >
-<img width="270" height="600" alt="Screenshot_2026-04-16-16-57-32-553_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/38850a0a-7766-47bf-8b6a-7950e2d0a24f" >
